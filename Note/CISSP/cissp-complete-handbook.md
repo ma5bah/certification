@@ -3639,6 +3639,8 @@ D. PPTP introduces high latency compared to modern SSL/TLS VPNs.
 
 **Key Concept:** VPN protocols and secure communications.
 
+</details>
+
 **Q3.** A global enterprise uses a Content Distribution Network (CDN) to cache web content at edge locations worldwide. The security team wants to prevent distributed denial-of-service (DDoS) attacks from reaching the origin servers while maintaining the confidentiality of customer login credentials. How should this be configured?
 
 A. Terminate the TLS session at the CDN edge, inspect the traffic for attacks, and re-encrypt the traffic before forwarding to the origin server.
@@ -7916,6 +7918,3 @@ Not all domains are equal. Allocate study time proportional to exam weight:
 > - If questions feel harder, you're likely doing WELL
 
 ---
-
-*Last updated: 2026-07-09 | Good luck on your exam! 🎯*
-
